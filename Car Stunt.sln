@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Car Stunt", "Car Stunt.csproj", "{3B58DFB2-1885-2E66-46C6-E4BCA5BC2481}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Car Stunt.Plugins", "Car Stunt.Plugins.csproj", "{47F17DA5-4869-16DF-A12E-41CCBEA1DDE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Car Stunt.Editor", "Car Stunt.Editor.csproj", "{FA87FCEA-DC8A-8C0A-9A9C-97925A807B32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Car Stunt.Editor.Plugins", "Car Stunt.Editor.Plugins.csproj", "{D0B4BC26-9E87-CE89-20BF-72BFB660F6C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B58DFB2-1885-2E66-46C6-E4BCA5BC2481}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B58DFB2-1885-2E66-46C6-E4BCA5BC2481}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B58DFB2-1885-2E66-46C6-E4BCA5BC2481}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B58DFB2-1885-2E66-46C6-E4BCA5BC2481}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47F17DA5-4869-16DF-A12E-41CCBEA1DDE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47F17DA5-4869-16DF-A12E-41CCBEA1DDE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47F17DA5-4869-16DF-A12E-41CCBEA1DDE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47F17DA5-4869-16DF-A12E-41CCBEA1DDE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA87FCEA-DC8A-8C0A-9A9C-97925A807B32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA87FCEA-DC8A-8C0A-9A9C-97925A807B32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA87FCEA-DC8A-8C0A-9A9C-97925A807B32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA87FCEA-DC8A-8C0A-9A9C-97925A807B32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0B4BC26-9E87-CE89-20BF-72BFB660F6C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0B4BC26-9E87-CE89-20BF-72BFB660F6C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0B4BC26-9E87-CE89-20BF-72BFB660F6C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0B4BC26-9E87-CE89-20BF-72BFB660F6C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
